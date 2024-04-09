@@ -1,0 +1,143 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+header
+{
+    font-size: 24px;
+    line-height: 20px;
+    font-family: "Andale Mon", monospace;
+    color: white;
+    background-color: DarkSlateBlue;
+}
+
+main {
+    color:white;
+    background-color:DarkSlateBlue;
+    width: 1890px;
+    height: 1000px;
+    font-size: 16px;
+}
+
+footer
+{
+    color:White;
+    background-color:black;
+    width: 1890px;
+    height: 300px;
+
+}
+
+p.foot{
+    text-align: left;
+    padding-left: 500px;
+    font-family: "Andale Mon", monospace;
+    font-size: 24px;
+    line-height: 50px;
+}
+
+div
+{
+    color:white;
+    background-color:DarkSlateBlue;
+    width: 1890px;
+    height: 500px;
+    font-size: 24px;
+}
+
+.pic1
+{
+    width: 1890px;
+    height: 500px
+}
+
+.pic2
+{
+    padding-top: 30px;
+    padding-left: 200px;
+    width: 500px;
+    height: 400px;
+}
+
+.pic3
+{
+    width: 150px;
+    height: 150px;
+    float:left;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 30px;
+}
+
+h1
+{
+    position: absolute;
+    right: 600px;
+    top: 200px;
+    color:white;
+    text-align:center;
+    font-size: 60px;
+    line-height: 20px;
+}
+
+p.opisanie {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+
+}
+
+div.stat {
+    text-align: center;
+    display: table;
+}
+
+p.paragraph{
+    border: 10px ridge lightblue;
+    font-size: 21px;
+    line-height: 32px;
+    height: 180px;
+    width: 700px;
+    padding-left: 30px;
+    display:inline-block;
+    text-align:left;
+}
+
+p.peremeshenie
+{
+    padding-top: 50px;
+    font-size: 30px;
+    font-family: "Andale Mon", monospace;
+}
+
+a {
+    color:white;
+}
+
+.SpaceText {
+    padding-top: 60px;
+    margin-top:15px;
+    margin-bottom:5px;
+    text-align: left;
+    line-height: 36px;
+
+}
+
+nav {
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: left;
+    font-size: 30px;
+}
+
+ol.navigation_spisok {
+    display: inline;
+}
+
+span {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
